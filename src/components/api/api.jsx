@@ -1,6 +1,6 @@
-const api = 'https://flinoid.com'
-const User_Id = 310
-const Store_Id = 469
+const api = 'https://api.example.com'
+const User_Id = ''
+const Store_Id = ''
 
 //Fetch Projects
 export const fetchProjects = async () => {
