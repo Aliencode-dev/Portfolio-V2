@@ -17,7 +17,6 @@ function HeroSection() {
           setError(data.error)
         } else {
           setUserData(data)
-          console.log(data)
         }
       } catch (error) {
         console.error('Error fetching projects:', error)

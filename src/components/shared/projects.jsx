@@ -1,5 +1,4 @@
 import { ProjectCard, LoadingProjectCard } from './projectCard'
-import ProjectImage from '/hero.jpg'
 import ILinksButton from './ILinkButton'
 import React, { useState, useEffect } from 'react'
 import { fetchProjects } from '../api/api'
